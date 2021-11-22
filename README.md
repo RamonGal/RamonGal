@@ -1,4 +1,4 @@
-Note: This is a new github, so a large amount of previous work is not yet here.
+Note: This is a new github, so a large amount of previous work is not here yet.
 - 👋 Hi, I’m @RamonGal, aka Ramon Galate, a brazilian computer/software engineering student.
 - 👀 I’m interested in:
   - Virtual reality, Artificial intelligence and Brain–computer Interface.
