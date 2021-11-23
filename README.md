@@ -15,7 +15,8 @@ Note: This is a new github, so a large amount of previous work is not here yet.
   - Ideally for an open source company, hopefully in machine learning and definitely for someone that respects its workers.
 - 🚀 Future plans:
   - Become a full-stack data engineer.
-  - Possibly finish a PhD and MBA.
+  - Finish an MBA and possibly a PhD.
+  - Eventually create my own business with partners.
 
 - 📫 How to reach me: 
 Send me an email at ramon_rib@hotmail.com (no need for formalities).
