@@ -1,5 +1,5 @@
 Note: This is a new github, so a large amount of previous work is not here yet.
-- 👋 Hi, I’m @RamonGal, aka Ramon Galate, a brazilian computer/software engineering student.
+- 👋 Hi, I’m @RamonGal, aka Ramon Galate, a computer/software engineering student.
 - 👀 I’m interested in:
   - Virtual reality, Artificial intelligence and Brain–computer Interface.
   - Design, Woodworking, Metalworking, Painting and Tattooing.
@@ -14,7 +14,7 @@ Note: This is a new github, so a large amount of previous work is not here yet.
   - End of studies internship (beginning after February).
   - Ideally for an open source company, hopefully in machine learning and definitely for someone that respects its collaborators.
 - 🚀 Future plans:
-  - Become a full-stack data engineer.
+  - Become a full-stack machine learning engineer.
   - Finish an MBA and possibly a PhD.
   - Eventually create my own business with partners.
 
