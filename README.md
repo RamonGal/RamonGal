@@ -15,6 +15,7 @@ Note: This is a new github, so a large amount of previous work is not here yet.
   - End of studies internship (beginning after February).
   - Ideally for an open source company, hopefully in machine learning and definitely for someone that respects its collaborators.
 - 🚀 Future plans:
+  - Dive deeper into data science
   - Become a full-stack machine learning engineer.
   - Finish an MBA and possibly a PhD.
   - Eventually create my own business with partners.
