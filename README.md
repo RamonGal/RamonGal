@@ -8,6 +8,7 @@ Note: This is a new github, so a large amount of previous work is not here yet.
   - Deep Learning
   - Computer Vision
   - Medical image classification
+  - Kernel Machines
   - Reinforcement learning
   - Large scale learning
 - 💞️ I’m looking to collaborate on:
