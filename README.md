@@ -18,8 +18,6 @@
   - Become a full-stack machine learning engineer.
   - Finish an MBA and possibly a PhD.
   - Eventually create my own business with partners.
-- 📫 How to reach me: 
-Send me an email at ramon_rib@hotmail.com (no need for formalities).
 
 <!---
 RamonGal/RamonGal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
