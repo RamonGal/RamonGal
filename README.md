@@ -1,9 +1,9 @@
 
 👋 Hi, I’m @RamonGal, aka Ramon Galate, a computer/software engineering student.
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamonGal&show_icons=true&theme=dracula)
-
+<div>
+<img width="180em" src="https://github-readme-stats.vercel.app/api?username=RamonGal&show_icons=true&theme=dracula">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonGal&layout=compact&theme=dracula">
+</div
 - 👀 I’m interested in:
   - Virtual reality, Artificial intelligence and Brain–computer Interface.
   - Design, Woodworking, Metalworking, Painting and Tattooing.
@@ -22,7 +22,8 @@
   - Become a full-stack machine learning engineer.
   - Finish an MBA and possibly a PhD.
   - Eventually create my own business with partners.
-
+##Stack
+https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
 <!---
 RamonGal/RamonGal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
