@@ -1,5 +1,9 @@
 
 - 👋 Hi, I’m @RamonGal, aka Ramon Galate, a computer/software engineering student.
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamonGal)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👀 I’m interested in:
   - Virtual reality, Artificial intelligence and Brain–computer Interface.
   - Design, Woodworking, Metalworking, Painting and Tattooing.
