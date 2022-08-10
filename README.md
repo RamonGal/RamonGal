@@ -24,7 +24,9 @@
   - Finish an MBA and possibly a PhD.
   - Eventually create my own business with partners.
 ## Stack
-<div>
+
+<div style="display: inline-block">
+  <img align="right" height="100em" src="https://github.com/RamonGal/RamonGal/blob/main/avatar.gif">
   <img height="30em" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img height="30em" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img height="30em" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -40,7 +42,7 @@
   <img height="30em" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img height="30em" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img height="30em" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  
 </div>
+
 
 ![snake gif](https://github.com/RamonGal/RamonGal/blob/output/github-contribution-grid-snake.svg)
