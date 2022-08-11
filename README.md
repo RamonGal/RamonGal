@@ -45,4 +45,3 @@
 </div>
 
 
-![snake gif](https://github.com/RamonGal/RamonGal/blob/output/github-contribution-grid-snake.svg)
