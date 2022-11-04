@@ -1,9 +1,5 @@
 
 ## 👋 Hi, I’m Ramon Galate, a computer/software engineering.
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RamonGal&show_icons=true&theme=dracula">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonGal&layout=compact&theme=dracula">
-</div>
 
 - 👀 I’m interested in:
   - Virtual reality, Artificial intelligence and Brain–computer Interface.
