@@ -2,7 +2,7 @@
 ## 👋 Hi, I’m Ramon Galate.
 
 - 👀 I’m interested in:
-  - Virtual reality, Artificial intelligence and Brain–computer Interface.
+  - VR, AI, DS, MLops, Microservices, BCI and Software architecture.
   - Design, Woodworking, Metalworking, Painting and Tattooing.
   - Human resources, organizing events and cooking for the people around me.
 - 🌱 Specialized in Data Science, in the following subjects:
@@ -16,7 +16,7 @@
   - In ML ops engeneering.
 - 🚀 Future plans:
   - Dive deeper into data science
-  - Become a full-stack machine learning engineer.
+  - Become a Mlops engineer.
   - Finish an MBA and possibly a PhD.
   - Eventually create my own business with partners.
 ## Stack
