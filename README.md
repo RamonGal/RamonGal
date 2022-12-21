@@ -1,5 +1,5 @@
 
-## 👋 Hi, I’m Ramon Galate, a computer/software engineering.
+## 👋 Hi, I’m Ramon Galate.
 
 - 👀 I’m interested in:
   - Virtual reality, Artificial intelligence and Brain–computer Interface.
