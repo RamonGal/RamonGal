@@ -2,7 +2,7 @@
 ## 👋 Hi, I’m Ramon Galate.
 
 - 👀 I’m interested in:
-  - VR, AI, DS, MLops, Microservices, BCI and Software architecture.
+  - VR, AI, Data Science, Devops/MLops, Microservices, BCI and Software architecture.
   - Design, Woodworking, Metalworking, Painting and Tattooing.
   - Human resources, organizing events and cooking for the people around me.
 - 🌱 Specialized in Data Science, in the following subjects:
