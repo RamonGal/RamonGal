@@ -1,23 +1,16 @@
 
 ## 👋 Hi, I’m Ramon Galate.
 
-- 👀 I’m interested in:
-  - VR, AI, Data Science, Devops/MLops, Microservices, BCI and Software architecture.
-  - Design, Woodworking, Metalworking, Painting and Tattooing.
-  - Human resources, organizing events and cooking for the people around me.
-- 🌱 Specialized in Data Science, in the following subjects:
-  - Deep Learning
-  - Computer Vision
-  - Medical image classification
-  - Kernel Machines
-  - Reinforcement learning
-  - Large scale learning
+I am a software engineer currently working with Infrastructure and full stack development for data centric applications.
+I am particularly drawn to roles that would allow me to contribute to impactful domains and companies, driving significant changes and improvements with my work. I am eager to leverage my skill set in cloud development, data science and full-stack programming to make a measurable difference and help shape the future of technology.
   
 ## Stack
 
 <div style="display: inline-block">
-  
-  <img align="right" height="100em" src="https://github.com/RamonGal/RamonGal/blob/main/avatar.gif">
+  <img align="center" height="100em" src="https://github.com/RamonGal/RamonGal/blob/main/avatar.gif">
+</div> 
+<div style="display: inline-block">
+  <img height="30em"  src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
   <img height="30em" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img height="30em" src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white">
   <img height="30em" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
@@ -29,6 +22,7 @@
   <img height="30em" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img height="30em" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img height="30em" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img height="30em" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
   <img height="30em" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
   <img height="30em" src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00">
   <img height="30em" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
@@ -36,6 +30,13 @@
   <img height="30em" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img height="30em" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img height="30em" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img height="30em" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img height="30em" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
+  <img height="30em" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
+  <img height="30em" src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
+  <img height="30em" src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white">
+  <img height="30em" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img height="30em" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white">
 </div>
 
 
