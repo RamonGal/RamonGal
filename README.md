@@ -4,7 +4,7 @@
 I am a software engineer currently working with Infrastructure and full stack development for data centric applications.
 I am particularly drawn to roles that would allow me to contribute to impactful domains and companies, driving significant changes and improvements with my work. I am eager to leverage my skill set in cloud development, data science and full-stack programming to make a measurable difference and help shape the future of technology.
 
-If you want to portfolio:
+If you want to check out my portfolio:
 https://ramongalate.com/
   
 ## Stack
